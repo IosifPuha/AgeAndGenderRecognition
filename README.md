@@ -7,3 +7,5 @@
 * <u>tensorflow and kears</u> for preprocessing, creating and training the model
 
 ## example of use:
+
+~~ accurate prediction:
