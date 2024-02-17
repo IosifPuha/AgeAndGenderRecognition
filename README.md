@@ -8,4 +8,5 @@
 
 ## example of use:
 
-~~ accurate prediction:
+
+![image](https://github.com/IosifPuha/NewRepo/assets/96111070/58f28900-2695-4782-ad8b-6c06e775f11a)
