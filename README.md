@@ -1,4 +1,4 @@
-# Jupiter notebook demonstrating a model trained to recognize age and gender of people in images
+# Jupyter notebook demonstrating a model trained to recognize age and gender of people in images
 
 ## what it uses:
 * **pandas** for data processing
